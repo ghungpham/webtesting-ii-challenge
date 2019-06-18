@@ -1,0 +1,9 @@
+{
+  "name": "webtesting-ii-challenge",
+  "version": "1.0.0",
+  "description": "baseball app",
+  "main": "index.js",
+  "repository": "https://github.com/ghungpham/webtesting-ii-challenge.git",
+  "author": "ghungpham <pham.ghungj@gmail.com>",
+  "license": "MIT"
+}
